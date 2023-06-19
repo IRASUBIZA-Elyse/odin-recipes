@@ -1,0 +1,15 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+   width: 500px; 
+}
+.objects{
+    border: solid;
+    background-color: beige;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
